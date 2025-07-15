@@ -1,4 +1,4 @@
-name: job-matrix
+name: job-matrix.
 
 on:
   push:
