@@ -1,4 +1,4 @@
-name: env-vars-example
+name: env-vars-example.
 on:
   push:
     paths:
