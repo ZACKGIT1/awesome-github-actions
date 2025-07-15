@@ -1,5 +1,5 @@
 
-name: parallel-jobs
+name: parallel-jobs.
 on:
   push:
     paths:
