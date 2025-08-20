@@ -1,4 +1,4 @@
-name: job-ordering.
+name: job-ordering
 on:
   push:
     paths:
